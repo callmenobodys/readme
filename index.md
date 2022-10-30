@@ -415,16 +415,16 @@ _Details coming soon..._
 <div style="page-break-after: always;"></div>
 
 ## 6. Prefix summary
-| Prefix    | Symbolise        | Used in                                                                                                                                                                          |
-|-----------|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **att/**  | attendance       | `add student`</br> `edit student`                                                                                                                                                |
-| **by/**   | sorting criteria | `sort reminder`                                                                                                                                                                  |
-| **d/**    | description      | `add consultation`</br> `edit consultation`</br> `add reminder`</br> `edit reminder`                                                                                             |
-| **D/**    | date or day      | `add consultation`</br> `edit consultation`</br> `add reminder`</br> `edit reminder`                                                                                             |
-| **e/**    | email            | `add student`</br> `edit student`                                                                                                                                                |
-| **f/**    | field            | `switch` <br/> `clear`                                                                                                                                                           |
-| **g/**    | grade            | `add student`</br> `edit student`                                                                                                                                                |
-| **i/**    | student id       | `add student`</br> `edit student`</br> `find`                                                                                                                                    |
+| Prefix    | Symbolise        | Used in  |
+|-----------|------------------|----------|
+| **att/**  | attendance       | `add student`</br> `edit student`|
+| **by/**   | sorting criteria | `sort reminder`                                           
+| **d/**    | description      | `add consultation`</br> `edit consultation`</br> `add reminder`</br> `edit reminder`|                                         
+| **D/**    | date or day      | `add consultation`</br> `edit consultation`</br> `add reminder`</br> `edit reminder` |
+| **e/**    | email            | `add student`</br> `edit student`  |
+| **f/**    | field            | `switch` <br/> `clear` | 
+| **g/**    | grade            | `add student`</br> `edit student` |
+| **i/**    | student id       | `add student`</br> `edit student`</br> `find`|
 | **m/**    | module           | `add student`</br> `edit student`</br> `find`</br> `add tutorial`</br> `edit tutorial`</br> `add consultation`</br> `edit consultation`                                          |
 | **n/**    | name             | `add student`</br> `edit student`</br> `find`</br> `add tutorial`</br> `edit tutorial`</br> `add consultation`</br> `edit consultation`</br> `add reminder`</br> `edit reminder` |
 | **p/**    | priority         | `add reminder`</br> `edit reminder`                                                                                                                                              |
