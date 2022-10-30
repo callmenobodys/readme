@@ -383,7 +383,6 @@ _Details coming soon..._
 **A**: Click on the `Tab` button, and it will toggle between all 4 tabs (**Student**, **Grade Chart**, **Consultation**, **Tutorial**) and the command line input too.
 
 --------------------------------------------------------------------------------------------------------------------
-<div style="page-break-after: always;"></div>
 
 ## 5. Command summary
 
@@ -412,7 +411,6 @@ _Details coming soon..._
 | **Help**                   | `help`                                                                                                                                                                                                               |
 | **Exit**                   | `exit`                                                                                                                                                                                                               |
 
-<div style="page-break-after: always;"></div>
 
 ## 6. Prefix summary
 | Prefix    | Symbolise        | Used in  |
